@@ -10,24 +10,30 @@ If you enjoy simple logic games or you're exploring GUI development in Java, fee
 📦 **Features**
 
 ✅ 2-player local gameplay
+
 ✅ Win counter for both players (counts wins across multiple rounds)
+
 ✅ "Play Again" option without losing win count
+
 ✅ Simple, colorful GUI layout
+
 ✅ Winning area highlighted
+
 ✅ Draw detection with option to restart
+
 ✅ Images/icons for better look
 
 
 
 🛠️ **Technologies Used**
 
--Java
+- Java
 
--Swing (for GUI components)
+- Swing (for GUI components)
 
--AWT (for layout management)
+- AWT (for layout management)
 
--Basic ImageIcons for logo/icons
+- Basic ImageIcons for logo/icons
 
 
 
