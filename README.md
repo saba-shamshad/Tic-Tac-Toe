@@ -62,10 +62,10 @@ If you enjoy simple logic games or you're exploring GUI development in Java, fee
 
 I built this project to practice:
 
--Java basics
+- Java basics
 
--GUI development with Swing
+- GUI development with Swing
 
--Event handling
+- Event handling
 
--Logic building for simple games
+- Logic building for simple games
